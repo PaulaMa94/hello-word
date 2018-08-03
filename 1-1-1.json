@@ -1,0 +1,77 @@
+{
+   "data":{
+      "Year":[
+         2010,
+         2011,
+         2012,
+         2013,
+         2014,
+         2015,
+         2016,
+         2010,
+         2011,
+         2012,
+         2013,
+         2014,
+         2015,
+         2016,
+         2010,
+         2011,
+         2012,
+         2013,
+         2014,
+         2015,
+         2016
+      ],
+      "Wiek":[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 0-17 lat",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej",
+        "osoby w wieku 65 lat i więcej"
+
+      ],
+      "Value":[
+         17.4,
+         16.9,
+         16.3,
+         16.2,
+         16.2,
+         15.5,
+         13.9,
+         23.7,
+         23.1,
+         22.0,
+         21.8,
+         21.8,
+         20.6,
+         16.4,
+         12.0,
+         11.2,
+         10.7,
+         9.9,
+         10.6,
+         10.6,
+         10.3
+      ]
+   },
+   "edges":[
+
+   ]
+}
